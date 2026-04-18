@@ -1,37 +1,68 @@
-#################################
-# Archivos Generados por Unreal Engine #
-#################################
-/[Bb]uild
-/[Bb]uilds
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+# =========================================================
+# Unreal Engine + Windows + Visual Studio .gitignore
+# Clean, production-ready defaults
+# =========================================================
 
-#################################
-# Archivos Generados por Visual Studio #
-#################################
-# Directorio de caché
-.vs
-# Archivos específicos del usuario
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-# Archivos de caché de CPP
+# ---------- Unreal generated folders ----------
+Binaries/
+Build/*/FileOpenOrder/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Plugin generated content
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# ---------- Visual Studio ----------
+.vs/
 *.VC.db
-*.opendb
-*.opensdf
+*.VC.opendb
 *.sdf
-# Archivos de solución
-*.sln
-# Directorio de caché de VSCode
-.vscode
-# Archivos de historial de VSCode
-**/.history
+*.suo
+*.opensdf
+*.user
+*.userprefs
+*.VC.VC.opendb
 
-#################################
-# Archivos Generados Misceláneos #
-#################################
-# AÑADIR SEGÚN SEA NECESARIO
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# ---------- Build outputs ----------
+*.obj
+*.o
+*.lib
+*.dll
+*.exe
+*.pdb
+*.exp
+*.idb
+*.ilk
+*.app
+*.ipa
+
+# ---------- Logs / temp ----------
+*.log
+*.tmp
+*.cache
+
+# ---------- OS junk ----------
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---------- Python / misc tools ----------
+__pycache__/
+*.pyc
+
+# ---------- Keep important UE files ----------
+!*.uproject
+!*.uplugin
+
+# ---------- Optional: keep plugin source ----------
+!Plugins/*/Source/**
+!Plugins/*/Resources/**
