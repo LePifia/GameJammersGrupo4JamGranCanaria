@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/Blueprint/BP_EnemyPhantom.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/Blueprint/BPNextTarget.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9P/XVG5C3FFE529UHHQKFKD0S.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ST/3UPC7MVCVR5SOYT58Y3U27.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5I/TVM5UTO0WYRMT1CI50ZCZT.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/H9/MTUN01OW44D0BV359D7M37.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/2A/AQOLG1XUKVX7O6H2M8PHN4.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IZ/VBK32G8ZTD18YL24I3HK79.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XR/6DL6IVK52UWMIBOGYCWD3V.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/EL/KIJOZ5ZNB5MFIV6HBDRAT9.uasset",
+				"C:/Users/david/Documents/GitHub/GameJam2026/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/2Q/FL777W87YU8QUDBPVQHQK0.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
